@@ -1,4 +1,4 @@
 
-[
-  {"id": 1, "name": "sadek"}, {"id": 2, "name": "irfan"}
-]
+{
+  data: [{"id": 1, "name": "sadek"}, {"id": 2, "name": "irfan"}]
+}
